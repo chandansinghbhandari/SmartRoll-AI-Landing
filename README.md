@@ -76,30 +76,30 @@ This repository contains the official landing page designed to present the Smart
 
 ## 📸 Screenshots
 
-<p align="center">
+
 ### Hero Section
-</p>
+
 <p align="center">
   <img src="./static/img/hero-preview.png" width="100%">
 </p>
 
-<p align="center">
+
 ### Features Section
-</p>
+
 <p align="center">
   <img src="./static/img/features-preview.png" width="100%">
 </p>
 
-<p align="center">
+
 ### Workflow Section
-</p>
+
 <p align="center">
   <img src="./static/img/workflow-preview.png" width="100%">
 </p>
 
-<p align="center">
+
 ### Tech-Stack Section
-</p>
+
 <p align="center">
   <img src="./static/img/techstack-preview.png" width="100%">
 </p>
